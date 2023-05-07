@@ -1,4 +1,3 @@
-//Demo
 class Animal{
     int number;
     public void eat(){
